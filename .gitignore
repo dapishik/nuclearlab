@@ -1,5 +1,6 @@
 # ignoring python venv
 .venv/
+pyvenv/
 
 # ignoring zip files
 *.zip
